@@ -9,4 +9,4 @@ A case for the godfatherphone
 
 ![](https://github.com/besi/godfatherphone-box/blob/master/radiobox/radiobox.jpg?raw=true)
 
-![](https://github.com/besi/godfatherphone-box/blob/master/gameboybox/gameboybox.png?raw=true)
+![](https://github.com/besi/godfatherphone-box/blob/master/gameboybox/gameboybox.jpg?raw=true)
