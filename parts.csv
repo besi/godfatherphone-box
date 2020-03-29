@@ -1,2 +1,25 @@
 Part,Vendor,Number,Itemprice,Price,Comment,URL,Alternatives
 Magnetic Plug,Aliexpress,1,,2.30,2.37$,https://de.aliexpress.com/item/4000329979407.html,
+3.5mm Socket,Reichelt,,,0.5,,https://www.reichelt.de/klinkenkupplung-knickschutz-stereo-bkl-1108003-p235700.html?&nbc=1,
+Kippschalter,Reichelt,,,0.97,,https://www.reichelt.de/miniatur-kippschalter-1x-ein-ein-rnd-210-00435-p240567.html,"https://www.bastelgarage.ch/kippschalter-on-on-mts-102?search=schalter 
+
+https://www.play-zone.ch/de/kippschalter-spst-rechtwinklig.html - Flacher"
+Ladeschaltung TP4056,Aliexpress,,,0.19,,https://de.aliexpress.com/item/33019744607.html,https://www.bastelgarage.ch/tp4056-lithium-lipo-akku-batterie-lademodul-micro-usb-5v-1a?search=lipo 2.90
+SD Karte,Reichelt,,,4.46,,https://www.reichelt.de/microsdhc-card-16gb-sandisk-ultra-sdsquar016ggn6ma-p214843.html?&nbc=1,
+MAX98357A DAC,PlayZone,,,5.90,,https://www.play-zone.ch/de/sparkfun-i2s-audio-breakout-max98357a.html,"https://de.aliexpress.com/item/33004419753.html 3.80
+Galaxus 11.10
+Bastelgarage 6.50
+https://de.aliexpress.com/item/33012922192.html  - 2.70"
+Roter Taster,Reichelt,,,2.23,,https://www.reichelt.com/ch/de/drucktaster-frontmontage-1x-ein-rund-rt-taster-1104-rt-p44483.html,
+Grüner Taster,Reichelt,,,2.22,,https://www.reichelt.com/ch/de/drucktaster-frontmontage-1x-ein-rund-gn-taster-1104-gn-p44484.html,
+I2S Mems Mic,PlayZone,,,8.90,,https://www.play-zone.ch/de/adafruit-i2s-mems-microphone-breakout-sph0645lm4h.html  ,"https://www.reichelt.com/ch/de/entwicklerboards-mikrofone-sph0645-debo-mems-mic-p271874.html - 9.77
+
+https://www.banggood.com/Sipeed-I2S-Mic-Module-MEMS-Microphone-Single-Silicon-Microphone-Board-For-Sipeed-Maix-Bit-Maix-GO-p-1453740.html?rmmds=buy&cur_warehouse=CN - 4.91"
+Speaker,Reichelt,,,10.22,,https://www.reichelt.de/breitbandlautsprecher-frws-5-4-w-4-ohm-vis-frws-5-4-p22441.html,
+Lipo mit Schutzschaltung,Bastelgarage,,,10.90,,https://www.bastelgarage.ch/li-ion-akku-3-7v-3000ma-ncr18650b-18650-mit-schutzelektronik,
+Raspberry Pi,Pi-Shop,,,16.90,,https://www.pi-shop.ch/raspberry-pi-zero,
+DS18B20,Reichelt,,,1.63,,https://www.reichelt.de/aufdruck-ds1820-ds-18s20-p7207.html?&nbc=1,https://www.play-zone.ch/de/maxim-digitalthermometer-ds18b20-to-92.html 4.50
+3.5mm plug,Reichelt,,,0.36,,https://www.reichelt.de/klinkenstecker-3-5mm-mono-bkl-072118-p235696.html,
+12mm M2.5 Standoff female,Aliexpress,,,3.49,50 Pcs.,https://de.aliexpress.com/item/32991503574.html?spm=a2g0o.detail.1000014.13.56661da8aEXTiT&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.128125.0&scm_id=1007.13338.128125.0&scm-url=1007.13338.128125.0&pvid=12d0cecd-efe2-44f5-b0ce-36d65b02279c,
+15mm M2.5 Standoff male/female,Aliexpress,,,4.08,50 Pcs.,https://de.aliexpress.com/item/32991503574.html?spm=a2g0o.detail.1000014.13.56661da8aEXTiT&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.128125.0&scm_id=1007.13338.128125.0&scm-url=1007.13338.128125.0&pvid=12d0cecd-efe2-44f5-b0ce-36d65b02279c,
+6 screws M2.5 5mm,Aliexpress,,,1.18,50 Pcs.,https://de.aliexpress.com/item/32971605141.html?spm=a2g0o.detail.1000013.13.56661da8aEXTiT&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=30816618-e1ea-41ad-a5eb-6219f9872aa2,
